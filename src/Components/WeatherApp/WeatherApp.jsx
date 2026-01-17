@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
 
+//Testing
+
 import './WeatherApp.css'
 import search_icon from "../Assets/search.png";
 import clear_icon from "../Assets/clear.png";
