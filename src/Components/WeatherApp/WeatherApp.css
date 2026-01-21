@@ -1,11 +1,14 @@
+body{
+    background-color: #857fa7;
+    }
+
 .container{
     width: 1607px;
     height: 1029px;
     margin: auto;
     margin-top: 75px;
     border-radius: 12px;
-    background-image: linear-gradient(180deg, #130754 0%, #3b2f80 100%);
-
+    background-image: linear-gradient(180deg, #130754 0%, #534793 100%);
 }
 
 .top-bar{
