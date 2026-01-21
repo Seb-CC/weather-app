@@ -1,3 +1,8 @@
+# Weather App Project
+
+A simple weather application built with React.js as my first React project.
+The project was created to learn and practice React fundamentals, test and challenge my skills, and to gain hands-on experience with Git and GitHub, including version control, commits, and managing a project repository.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
